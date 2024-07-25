@@ -14,7 +14,7 @@
 - ⚡ 有以下相关需求可以联系我：CNN网络改进创新点，网络结构改进（BiFPN、注意力等），模块缝合，深度学习代码指导。标签：计算机视觉（图像分类、语义分割、目标检测、目标跟踪、三维重建等），Pytorch，Tensorflow
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+### 🛠 &nbsp; 语言和工具:
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40" align="center"/>&nbsp;
@@ -28,7 +28,7 @@
 
 ---
 
-### 🔥 &nbsp; My Stats :
+### 🔥 &nbsp; 我的状态:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="45%" height="auto" align="center" src="https://github-readme-stats.vercel.app/api?username=Finn-Neo&theme=react" />
 </a>
