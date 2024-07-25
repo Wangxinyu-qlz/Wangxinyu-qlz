@@ -36,8 +36,8 @@ I am an undergraduate student <img src="https://media.giphy.com/media/WUlplcMpOC
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="Pytorch" **alt="Pytorch" width="120" height="120"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow" **alt="Tensorflow" width="120" height="120"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="Pytorch" **alt="Pytorch" width="80" height="80"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow" **alt="Tensorflow" width="80" height="80"/>&nbsp;
 </p>
 
 ---
@@ -46,9 +46,9 @@ I am an undergraduate student <img src="https://media.giphy.com/media/WUlplcMpOC
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="45%" height="auto" align="center" src="https://github-readme-stats.vercel.app/api?username=Finn-Neo&theme=react" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<!-- <a href="https://github.com/anuraghazra/convoychat">
   <img width="45%" height="auto" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Finn-Neo&theme=react&layout=compact" />
-</a>
+</a> -->
 <!-- [![stats](https://github-readme-stats.vercel.app/api?username=ZhaoHaoRu&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Haoru_Zhao&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhaoHaoRu&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats) --!>
