@@ -1,17 +1,17 @@
-## 别来无恙👋
+## 别来无恙，我是巧乐兹👋
 
 <p align="center"><img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="200"/></p>
 
 
-### :woman_technologist: &nbsp;About Me :
+### :woman_technologist: &nbsp;关于我 :
 
-I am a graduate student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from XAUT.
+我是一个兴趣使然的程序员 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  本科毕业于西北农林科技大学，现就读于西安理工大学计算机科学与工程学院。
 
-- 🔭 I’m currently trying to find a job these days. Mainly java backend, also in the AI field (computer vision).
-- 🌱 I have recently been learning about Spring related frameworks, redis, mysql, message queues, computer networks, operating systems. There's so much to prepare for an interview...
-- 💻 I have participated in a food delivery platform backend developed by springboot.
-- 📫 How to reach me: 2463853170@qq.com
-- ⚡ I am interested in Search technology based on deep learning.
+- 🔭 最近忙于找工作，主要是Java后端开发，和AI算法领域。
+- 🌱 在学Spring相关框架，redis，mysql，消息队列，计算机网络，操作系统。面试需要准备的东西太多了
+- 💻 最近做了两个基于SpringBoot开发的项目
+- 📫 邮箱: 2463853170@qq.com，QQ同号
+- ⚡ 有以下相关需求可以联系我：CNN网络改进创新点，网络结构改进（BiFPN、注意力等），模块缝合，深度学习代码指导。标签：计算机视觉（图像分类、语义分割、目标检测、目标跟踪、三维重建等），Pytorch，Tensorflow
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
