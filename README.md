@@ -1,31 +1,17 @@
-## Hi there 👋
+## 别来无恙👋
 
-<!--
-**Finn-Neo/Finn-Neo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align="center"><img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="200"/></p>
 
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am an undergraduate student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from @SJTU-SE, also a member of @IPADS.
+I am a graduate student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from XAUT.
 
-- 🔭 I once worked on many interesting projects, such as [distributed file system](https://github.com/ZhaoHaoRu/CHFS) and [compiler](https://github.com/ZhaoHaoRu/tiger-compiler).
-- 💻 I have participated in research related to bandit algorithm, our paper was accepted by UAI 2022, this is our [experiment](https://github.com/ZhaoHaoRu/Federated-Clustering-of-Bandits)
-- 🙂 I use github to document my learning experience like how to use [rdma](https://github.com/ZhaoHaoRu/RDMA-rsocket-example), my [course notes and exams](https://github.com/ZhaoHaoRu/SJTU-SE-Notes)
-- 🌱 I'm looking for an appropriate opportunity in industry.
-- ⚡ I am interested in eBPF and kv store now.
+- 🔭 I’m currently trying to find a job these days. Mainly java backend, also in the AI field (computer vision).
+- 🌱 I have recently been learning about Spring related frameworks, redis, mysql, message queues, computer networks, operating systems. There's so much to prepare for an interview...
+- 💻 I have participated in a food delivery platform backend developed by springboot.
+- 📫 How to reach me: 2463853170@qq.com
+- ⚡ I am interested in Search technology based on deep learning.
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
