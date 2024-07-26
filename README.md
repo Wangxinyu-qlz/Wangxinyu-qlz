@@ -3,7 +3,7 @@
 <p align="center"><img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="200"/></p>
 
 
-### :woman_technologist: &nbsp;关于我 :
+### :man_technologist: &nbsp;关于我 :
 
 我是一个兴趣使然的程序员 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  本科毕业于西北农林科技大学，现就读于西安理工大学计算机科学与工程学院。
 
@@ -32,6 +32,10 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="45%" height="auto" align="center" src="https://github-readme-stats.vercel.app/api?username=Finn-Neo&theme=react" />
 </a>
+
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Finn-Neo&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Finn-Neo&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+
 <!-- <a href="https://github.com/anuraghazra/convoychat">
   <img width="45%" height="auto" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Finn-Neo&theme=react&layout=compact" />
 </a> -->
