@@ -3,7 +3,7 @@
 <p align="center"><img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="200"/></p>
 
 
-### :man_technologist: &nbsp;关于我 :
+### :man_technologist: &nbsp; 关于我 :
 
 我是一个兴趣使然的程序员 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  本科毕业于西北农林科技大学，现就读于西安理工大学计算机科学与工程学院。
 
