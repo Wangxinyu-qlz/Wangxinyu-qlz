@@ -10,7 +10,7 @@
 - 🔭 最近忙于找工作，主要是Java后端开发，算法。
 - 🌱 在学Spring相关框架，redis，MySQL，消息队列，计算机网络，操作系统。面试需要准备的东西太多了
 - 📫 邮箱: 2463853170@qq.com
-- ⚡ 欢迎咨询：CNN网络改进（BiFPN、注意力等），模块缝合。标签：图像分类、语义分割、目标检测、目标跟踪、三维重建等，Pytorch，Tensorflow，YOLO，openmmlab等
+- ⚡ 欢迎咨询：CNN网络改进（BiFPN、注意力等），模块缝合。标签：图像分类、语义分割、目标检测、目标跟踪、三维重建等，Pytorch，Tensorflow，YOLO，OpenMMLab等
 ---
 
 ### 🛠 &nbsp; 语言和工具:
