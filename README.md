@@ -7,10 +7,10 @@
 
 我是一个兴趣使然的程序员 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  本科毕业于<a href="https://www.nwafu.edu.cn/" target="_blank">西北农林科技大学</a>，现就读于<a href="https://jsj.xaut.edu.cn/szdw/jsjkxyjsx.htm" target="_blank">西安理工大学计算机科学与工程学院</a>。
 
-- 🔭 最近忙于找工作，主要是Java后端开发，算法。
-- 🌱 在学Spring相关框架，redis，MySQL，消息队列，计算机网络，操作系统。面试需要准备的东西太多了
 - 📫 邮箱: 2463853170@qq.com
-- ⚡ 欢迎咨询：CNN网络改进（BiFPN、注意力等），模块缝合。标签：图像分类、语义分割、目标检测、目标跟踪、三维重建等，PyTorch，TensorFlow，YOLO，OpenMMLab等
+- 🔭 正在找工作
+- 🌱 Spring，SpringMVC，Spring Security，Redis，MySQL，MyBatis，RabbitMQ。
+- ⚡ 深度学习：CNN（BiFPN、注意力等），模块缝合。图像分类、语义分割、目标检测、目标跟踪、三维重建等。PyTorch，TensorFlow，YOLO，OpenMMLab等
 ---
 
 ### 🛠 &nbsp; 语言和工具:
