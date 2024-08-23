@@ -9,7 +9,7 @@
 
 - 📫 邮箱: 2463853170@qq.com
 - 🔭 正在找工作
-- 🌱 Spring，SpringMVC，Spring Security，Redis，MySQL，MyBatis，RabbitMQ。
+- 🌱 Spring，SpringMVC，Spring Security，Redis，MySQL，MyBatis，RabbitMQ
 - ⚡ 深度学习：CNN（BiFPN、注意力等），模块缝合。图像分类、语义分割、目标检测、目标跟踪、三维重建等。PyTorch，TensorFlow，YOLO，OpenMMLab等
 ---
 
