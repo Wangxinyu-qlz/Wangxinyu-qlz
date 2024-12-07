@@ -8,7 +8,7 @@
 我是一个兴趣使然的程序员 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  本科毕业于<a href="https://www.nwafu.edu.cn/" target="_blank">西北农林科技大学</a>，现就读于<a href="https://jsj.xaut.edu.cn/szdw/jsjkxyjsx.htm" target="_blank">西安理工大学计算机科学与工程学院</a>。
 
 - 📫 邮箱: wangxinyu-cs@qq.com
-- leetcode(力扣)：https://leetcode.cn/u/qiao-le-zi-e/<a href="https://www.nwafu.edu.cn/" target="_blank">
+- leetcode(力扣)：leetcode.cn/u/wangxinyu-qlz/ <a href="leetcode.cn/u/wangxinyu-qlz/" target="_blank">
 - 🔭 正在找工作
 - 🌱 Spring，SpringMVC，Spring Security，Spring Boot，Redis，MySQL，MyBatis，RabbitMQ
 - ⚡ 深度学习：主流 CNN 等，VGG、ResNet、ResNeXt、SENet、GoogLeNet、DeepLab、UNet、YOLO、FPN、BiFPN；DINO、注意力等。图像分类、语义分割、目标检测、目标跟踪、三维重建等。PyTorch，TensorFlow，YOLO，OpenMMLab 等
