@@ -11,7 +11,7 @@
 - leetcode(力扣)：[leetcode.cn/u/wangxinyu-qlz/](https://leetcode.cn/u/wangxinyu-qlz/)
 - 🔭 正在找工作
 - 🌱 Spring，SpringMVC，Spring Security，Spring Boot，Redis，MySQL，MyBatis，RabbitMQ
-- ⚡ 深度学习：主流 CNN 等，VGG、ResNet、ResNeXt、SENet、GoogLeNet、DeepLab、UNet、YOLO、FPN、BiFPN；DINO、注意力等。图像分类、语义分割、目标检测、目标跟踪、三维重建等。PyTorch，TensorFlow，YOLO，OpenMMLab 等
+- ⚡ 深度学习
 ---
 
 ### 🛠 &nbsp; 语言和工具:
