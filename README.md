@@ -2,17 +2,8 @@
 
 <p align="center"><img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="200"/></p>
 
-
-### :man_technologist: &nbsp; 关于我 :
-
-我是一个兴趣使然的程序员 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  本科毕业于<a href="https://www.nwafu.edu.cn/" target="_blank">西北农林科技大学</a>，现就读于<a href="https://jsj.xaut.edu.cn/szdw/jsjkxyjsx.htm" target="_blank">西安理工大学计算机科学与工程学院</a>。
-
 - 📫 邮箱: wangxinyu-cs@qq.com
 - leetcode(力扣)：[leetcode.cn/u/wangxinyu-qlz/](https://leetcode.cn/u/wangxinyu-qlz/)
-- 🔭 正在找工作
-- 🌱 Spring，SpringMVC，Spring Security，Spring Boot，Redis，MySQL，MyBatis，RabbitMQ
-- ⚡ 深度学习
----
 
 ### 🛠 &nbsp; 语言和工具:
 
@@ -30,12 +21,10 @@
 </p>
 
 ---
-
-### 🔥 &nbsp; 我的状态:
-<p>
+<!-- <p>
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Wangxinyu-qlz&hide_title=true&hide_border=true&show_icons=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wangxinyu-qlz&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-</p>
+</p> -->
 <!-- <a href="https://github.com/anuraghazra/convoychat">
   <img width="45%" height="auto" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Finn-Neo&theme=react&layout=compact" />
 </a> -->
